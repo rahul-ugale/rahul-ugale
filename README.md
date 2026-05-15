@@ -100,14 +100,6 @@ Backend Developer | System Programming Enthusiast | Open Source Learner
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-ugale&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
